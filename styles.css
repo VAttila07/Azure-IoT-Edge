@@ -1,4 +1,6 @@
 body {
+  display: flex;
+  justify-content: center;
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,7 +17,6 @@ body {
   padding: 40px;
   width: 900px;
   margin-top: 20px;
-  justify-self: center;
 }
 
 .keret {
